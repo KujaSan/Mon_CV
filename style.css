@@ -173,7 +173,7 @@ fieldset > p{
 #button:hover{
     box-shadow: 3px 3px 3px blue;
 }
-@media all and (max-width:915px) {
+@media all and (max-device-width:915px) {
     header{
         width: auto;
         margin: 15px;
